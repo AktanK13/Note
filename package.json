@@ -1,8 +1,7 @@
 {
-  "name": "notes-mini-react",
-  "homepage": "https://zakariyaq313.github.io/notes-mini-react/",
+  "name": "notes-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
